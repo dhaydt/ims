@@ -5,7 +5,7 @@ const Footer = () => {
 		<>
 		<footer className="bg-light text-center">
 			<p>
-				@ 2020 TrueSight. All right Reserved | Moh. Hidayat, ST
+				@ 2020 Intan Mandiri Sejahtera Coorps | Moh. Hidayat, ST
 			</p>
 		</footer>
 		</>

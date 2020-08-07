@@ -13,10 +13,10 @@ const Commom = (props) => {
 							<div className="col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column">
 								<h1>
 								{props.name}
-								<strong className="brand-name"> True Sight</strong>
+								<strong className="brand-name"> Intan Mandiri</strong>
 								</h1>
 								<h2 className="my-3">
-								We are the team of talented developer making websites
+								Kami tim development professional dengan banyak pengalaman
 								</h2>
 								<div className="mt-3">
 									<NavLink to={props.visit} className="btn-get-started" >{props.btname}</NavLink>
