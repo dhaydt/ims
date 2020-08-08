@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "52e48719a609a90ea6b8a333c7c962fb",
+    "revision": "96e852de0e444df5487d0a1e3bb31df0",
     "url": "/ims/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ims/static/css/2.b07ff35c.chunk.css"
   },
   {
-    "revision": "e2d3549322cc5d65e74d",
+    "revision": "e0a3801ce74bf81eaacf",
     "url": "/ims/static/css/main.7c0ff9fd.chunk.css"
   },
   {
@@ -20,32 +20,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ims/static/js/2.35f9d5aa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e2d3549322cc5d65e74d",
-    "url": "/ims/static/js/main.3e3ebd03.chunk.js"
+    "revision": "e0a3801ce74bf81eaacf",
+    "url": "/ims/static/js/main.016ea3d8.chunk.js"
   },
   {
     "revision": "24b5f8d5e6fbd133b49e",
     "url": "/ims/static/js/runtime-main.2b793064.js"
   },
   {
-    "revision": "e4093059547b462e2136e7c496a533c6",
-    "url": "/ims/static/media/appdt.e4093059.png"
+    "revision": "e92fa45cef73ac51395b7f6de09a383b",
+    "url": "/ims/static/media/appdt.e92fa45c.png"
   },
   {
-    "revision": "6dab99b67d4b0326df6de784959c62e3",
-    "url": "/ims/static/media/appmb.6dab99b6.png"
+    "revision": "eaec08631b1eea9c93ec5f32bacabf7a",
+    "url": "/ims/static/media/appmb.eaec0863.png"
   },
   {
-    "revision": "9c8ee4f8d1efcb2e3b26b77663727fe3",
-    "url": "/ims/static/media/design.9c8ee4f8.png"
+    "revision": "2f02615e84eb47d6e4bd25c3ace84758",
+    "url": "/ims/static/media/design.2f02615e.png"
   },
   {
-    "revision": "3514e38783e121c388bf0e3ba50e8d9a",
-    "url": "/ims/static/media/ecmr.3514e387.png"
+    "revision": "fd06d02ab1a68fd04090547a8d8b533c",
+    "url": "/ims/static/media/ecmr.fd06d02a.png"
   },
   {
-    "revision": "90cddf3f9f310149b723400bc5089c21",
-    "url": "/ims/static/media/game.90cddf3f.png"
+    "revision": "ae6ef349538182155d85723f99c538bf",
+    "url": "/ims/static/media/game.ae6ef349.png"
   },
   {
     "revision": "2002c61e5e770bdcd5e132757deabe73",
@@ -56,7 +56,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ims/static/media/img2.24c36218.svg"
   },
   {
-    "revision": "3372f60935dff6d4162f8d3c22b0b539",
-    "url": "/ims/static/media/s1.3372f609.jpg"
+    "revision": "0ffee43fa3d19938dff1ded65239c647",
+    "url": "/ims/static/media/s1.0ffee43f.jpg"
   }
 ]);
