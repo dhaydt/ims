@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3f93cda92245eb832a9ec98c23168bf9",
+    "revision": "f7aaaba5ff1efa3c9a7c1b67efd2f51a",
     "url": "/trueinsight/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/trueinsight/static/css/2.b07ff35c.chunk.css"
   },
   {
-    "revision": "a57e34c6b450701358f0",
+    "revision": "b331b5029011ad44ab2f",
     "url": "/trueinsight/static/css/main.7c0ff9fd.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/trueinsight/static/js/2.7e3d0687.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a57e34c6b450701358f0",
-    "url": "/trueinsight/static/js/main.b5127ca5.chunk.js"
+    "revision": "b331b5029011ad44ab2f",
+    "url": "/trueinsight/static/js/main.92abd91f.chunk.js"
   },
   {
     "revision": "f875901bd04dc65622c7",

@@ -6,7 +6,7 @@ import Commom from "./Commom";
 const About =() => {
 	return (
 		<>
-			<Commom name='Selamat datang di Website kami' imgsrc={web} visit="/contact" btname="Contact Now" />
+			<Commom name='Selamat datang di Website kami' imgsrc={web} visit="/contact" btname="Hubungi Sekarang" />
 		</>
 		);
 };

@@ -8,7 +8,7 @@ import ecmr from "../src/images/ecmr.png";
 const Sdata = [
 	{
 		imgsrc: game,
-		title: "Game Build"
+		title: "Membangun Game",
 	},
 	{
 		imgsrc: web,
@@ -20,11 +20,11 @@ const Sdata = [
 	},
 	{
 		imgsrc: appmb,
-		title: "Mobile App"
+		title: "Aplikasi Android/IOS"
 	},
 	{
 		imgsrc: appdt,
-		title: "Desktop App"
+		title: "ApplikasiDesktop"
 	},
 	{
 		imgsrc: ecmr,

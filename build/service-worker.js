@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/trueinsight/precache-manifest.f49804e3bffef7356ce7792222b13105.js"
+  "/trueinsight/precache-manifest.6f818178854ce3adedad8a7eb3e79445.js"
 );
 
 self.addEventListener('message', (event) => {
