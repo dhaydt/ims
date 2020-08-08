@@ -1,8 +1,8 @@
 {
-  "name": "try",
+  "name": "ims",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://dhaydt.github.io/trueinsight",
+  "homepage": "https://dhaydt.github.io/ims",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
